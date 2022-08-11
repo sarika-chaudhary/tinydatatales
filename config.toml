@@ -46,14 +46,14 @@ enableEmoji = true
   socialInFooter = false
   # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
-   sharing_image = "/img/illustrated_blog_avatar.png"
+  # sharing_image = "/img/illustrated_blog_avatar.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "sarika_jnu"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
-  theme = "plum"
+  theme = "poppy"
 
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -76,7 +76,7 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "juliasilge/juliasilge.com"
+    repo_name = "sarika-chaudhary/tinydatatales"
     issue_term = "title" # url, pathname, or title
     theme = "github-light"
     label = "comments :speech_balloon:"
@@ -93,31 +93,31 @@ enableEmoji = true
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/juliasilge"
+      url       = "https://twitter.com/sarika_jnu"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/juliasilge"
-  [[params.social]]
-      icon      = "youtube" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.youtube.com/juliasilge"
-  [[params.social]]
-      icon      = "stack-overflow" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://stackoverflow.com/users/5468471/julia-silge"
+      url       = "https://github.com/sarika-chaudhary"
+ # [[params.social]]
+ #     icon      = "youtube" # icon name without the 'fa-'
+ #     icon_pack = "fab"
+ #     url       = "https://www.youtube.com/juliasilge"
+ # [[params.social]]
+ #   icon      = "stack-overflow" # icon name without the 'fa-'
+ #    icon_pack = "fab"
+ #  url       = "https://stackoverflow.com/users/5468471/julia-silge"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.linkedin.com/in/juliasilge/"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://orcid.org/0000-0002-3671-836X"
-  [[params.social]]
-      icon      = "google-scholar" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://scholar.google.com/citations?hl=en&user=lQBVIkkAAAAJ"
+      url       = "https://www.linkedin.com/in/sarikachaudhary/"
+ # [[params.social]]
+ #     icon      = "orcid" # icon name without the 'fa-'
+ #     icon_pack = "ai"
+ #     url       = "https://orcid.org/0000-0002-3671-836X"
+ # [[params.social]]
+#      icon      = "google-scholar" # icon name without the 'fa-'
+ #     icon_pack = "ai"
+ #    url       = "https://scholar.google.com/citations?hl=en&user=lQBVIkkAAAAJ"
 
 [taxonomies]
   category = "categories"
