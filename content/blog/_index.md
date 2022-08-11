@@ -1,8 +1,8 @@
 ---
 title: Blog
 description: | 
-  Machine learning, text analysis, and more
-author: "Julia Silge"
+  Tiny Data Tales
+author: "Sarika Chaudhary"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
 show_author_byline: false
@@ -16,14 +16,14 @@ sidebar:
   title: Blog
   description: |
     
-  author: "Julia Silge"
+  author: "Sarika Chaudhary"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   show_sidebar_adunit: true # show ad container
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "Julia Silge"
+  author: "Sarika Chaudhary"
   show_author_byline: true
   show_post_date: true
   show_comments: true # see site config to choose Disqus or Utterances

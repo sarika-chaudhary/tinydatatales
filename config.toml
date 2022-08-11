@@ -1,4 +1,4 @@
-baseURL = "https://juliasilge.com/"
+baseURL = "http://tinydatatales.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Tiny Data Tales"
@@ -33,9 +33,9 @@ enableEmoji = true
     style = "friendly"
 
 [params]
-  orgName = "Julia Silge"
+  orgName = "Sarika Chaudhary"
   orgLocal = ""
-  description = "A data science blog"
+  description = "A data analysis blog"
   favicon = "/img/icon.png"
   logo = ""
   mainSections = ""
@@ -46,14 +46,14 @@ enableEmoji = true
   socialInFooter = false
   # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/illustrated_blog_avatar.png"
+   sharing_image = "/img/illustrated_blog_avatar.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "juliasilge"
+  twitter = "sarika_jnu"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
-  theme = "grayscale"
+  theme = "plum"
 
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
