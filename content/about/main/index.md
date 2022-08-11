@@ -8,15 +8,18 @@ show_intro: true
 show_outro: false
 intro: |
 
-  I am a data scientist and software engineer at [Posit PBC](https://posit.co/) where I work on [open source MLOps tooling](https://vetiver.rstudio.com/). My last name is pronounced SILL-GHEE (two syllables, short `i`, hard `g`). I love making beautiful charts, the statistical programming language R, Jane Austen, black coffee, and red wine.
+  I am currently pursuing my PhD in Economics from [CSRD, JNU](https://www.jnu.ac.in/sss/csrd). I have completed my MPhil in Economics from the same centre and my MPhil Dissertation was on the question of wage discrimination in the urban labour market in India. 
 
-  I studied physics and astronomy, finishing my PhD in 2005. I worked in academia (teaching and doing research) and ed tech before moving into data science in 2015 and discovering R. I am an author, an international speaker, and a real-world practitioner focusing on data analysis and machine learning. I have written books with my collaborators about [text mining](https://www.tidytextmining.com/), [supervised machine learning for text](https://smltar.com/), and [modeling with tidy data principles](https://www.tmwr.org/) in R. You can find me on [Twitter](https://twitter.com/juliasilge) and [GitHub](https://github.com/juliasilge). 
+  Previously, I did Masters in Development and Labour Studies at [CISLS,JNU](https://www.jnu.ac.in/sss/cisls). During my masters, I was involved in two research projects, ‘Employment, Working and Livelihood Conditions of the Migrant Workers from Bihar in the Informal Sector in NCR’, and another on the oral histories of the Warli Adivasi Movement, which has been recently published as a monograph, Red Flag of the Warlis published by LeftWord. I was also involved in documenting the history of the trade union movement in the banking sector which has been published as a monograph, [Struggling for Nation Building: A Brief History of All India Bank Officers’ Confederation](https://www.aakarbooks.com/author-list.php?autid=541) published by Aakar Books. 
 
-  I live in Salt Lake City, UT, with my husband, three kids, and two cats.
+  Currently, my research interests concern the question of wages and social inequality in the context of contemporary India. I have also been involved in the student movement at JNU and had served as the Vice-President of the JNU Students’ Union in 2018-19. You can find me on [Twitter](https://twitter.com/sarika_jnu) and [GitHub](https://github.com/sarika-chaudhary). 
 
-  This blog is built with [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/), and deployed using [Netlify](https://www.netlify.com/). My blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). My illustrated portrait is by [Emily Griffin](https://www.daybrighten.com/) (and gifted to me by my friend and former coworker [Jason Punyon](https://jasonpunyon.com/)).
+
+  I live in New Delhi, India.
+
+  This blog is inspired by [Julia Silge](https://juliasilge.com/) and built with [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/), and deployed using [Netlify](https://www.netlify.com/). My blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
+
   
-  If my blog has helped you, [you can buy me a coffee on Ko-fi!](https://ko-fi.com/U7U4WG9B)
 
 ---
 

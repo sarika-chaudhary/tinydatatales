@@ -1,7 +1,7 @@
 ---
-title: "Julia Silge"
-subtitle: "Data Scientist & Software Engineer"
-description: "I'm a tool builder, author, international keynote speaker, and real-world practitioner focusing on data analysis and machine learning. I love making beautiful charts and communicating about technical topics with diverse audiences."
+title: "Sarika Chaudhary"
+subtitle: "Junior Research Fellow"
+description: "I am a PhD scholar of Economics at the Centre for the Study of Regional Development at the Jawaharlal Nehru University. I have just started learning R programming and this website is a tool to implement small data stories."
 images:
   - img/illustrated_blog_avatar.png
 image_left: true

@@ -1,8 +1,8 @@
 baseURL = "https://juliasilge.com/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Julia Silge"
-author = "Julia Silge"
+title = "Tiny Data Tales"
+author = "Sarika Chaudhary"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus

@@ -1,7 +1,7 @@
 ---
 title: "About me"
 description: |
-  A data science blog
+  A data story blog
 show_header: false
 sidebar_left: true
 # Keep this! Do not edit.
