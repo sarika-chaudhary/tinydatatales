@@ -33,7 +33,7 @@ enableEmoji = true
     style = "friendly"
 
 [params]
-  orgName = "Sarika Chaudhary"
+  orgName = "Tiny Data Tales"
   orgLocal = ""
   description = "A data analysis blog"
   favicon = "/img/icon.png"
@@ -93,11 +93,20 @@ enableEmoji = true
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/sarika_jnu"
+      url       = "https://twitter.com/tinydatatales"
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
+      icon      = "facebook" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/sarika-chaudhary"
+      url       = "https://www.facebook.com/tinydatatales"
+  [[params.social]]
+      icon      = "instagram" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.instagram.com/tinydatatales/"
+
+#  [[params.social]]
+ #     icon      = "github" # icon name without the 'fa-'
+  #    icon_pack = "fab"
+   #   url       = "https://github.com/sarika-chaudhary"
  # [[params.social]]
  #     icon      = "youtube" # icon name without the 'fa-'
  #     icon_pack = "fab"
@@ -106,10 +115,10 @@ enableEmoji = true
  #   icon      = "stack-overflow" # icon name without the 'fa-'
  #    icon_pack = "fab"
  #  url       = "https://stackoverflow.com/users/5468471/julia-silge"
-  [[params.social]]
-      icon      = "linkedin" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.linkedin.com/in/sarikachaudhary/"
+#  [[params.social]]
+ #     icon      = "linkedin" # icon name without the 'fa-'
+  #    icon_pack = "fab"
+   #   url       = "https://www.linkedin.com/in/sarikachaudhary/"
  # [[params.social]]
  #     icon      = "orcid" # icon name without the 'fa-'
  #     icon_pack = "ai"
@@ -127,7 +136,7 @@ enableEmoji = true
 [menu]
   # Configure header
   [[menu.header]]
-    name = "About"
+    name = "About the Author"
     title = "About me"
     url = "/about/"
     weight = 1
