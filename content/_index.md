@@ -1,7 +1,7 @@
 ---
 title: "Tiny Data Tales"
-subtitle: "Communicate Stories through the use of Data"
-description: "I am a PhD scholar of Economics at the Centre for the Study of Regional Development at the Jawaharlal Nehru University. I have just started learning R programming and this website is a tool to implement small data stories."
+subtitle: "Exploring Data Story Telling"
+description: "This website is created with the aim to implement tools and techniques required for effective presentation of stories using data. The main tools used are [GNU Emacs](https://www.gnu.org/software/emacs/), [R](https://www.r-project.org/about.html), [Org Mode](https://orgmode.org/) and [RStudio](https://www.rstudio.com/). Since this website is used to explore and learn these tools, there is a possibility of mistakes. You are most welcome to point these out. You can connect to me via [twitter](https://twitter.com/sarika_jnu)."
 images:
   - img/illustrated_blog_avatar.png
 image_left: true
