@@ -1,7 +1,7 @@
 ---
 title: "Tiny Data Tales"
 subtitle: "Exploring Data Story Telling"
-description: "This website is created with the aim to implement tools and techniques required for effective presentation of stories using data. The main tools used are [GNU Emacs](https://www.gnu.org/software/emacs/), [R](https://www.r-project.org/about.html), [Org Mode](https://orgmode.org/) and [RStudio](https://www.rstudio.com/). Since this website is used to explore and learn these tools, there is a possibility of mistakes. You are most welcome to point these out. You can connect to me via [twitter](https://twitter.com/sarika_jnu)."
+description: "The objective of this website is to implement tools and techniques required for effective presentation of stories through the use data. The main tools utilised are [GNU Emacs](https://www.gnu.org/software/emacs/), [R](https://www.r-project.org/about.html), [Org Mode](https://orgmode.org/) and [RStudio](https://www.rstudio.com/). Since the website is used to explore and learn the aforementioned tools, there is a possibility of errors occuring. One is most welcome to point them out. One can connect with me via [twitter](https://twitter.com/sarika_jnu)."
 images:
   - img/illustrated_blog_avatar.png
 image_left: true
