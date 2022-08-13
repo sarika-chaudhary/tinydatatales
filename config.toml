@@ -115,10 +115,10 @@ enableEmoji = true
  #   icon      = "stack-overflow" # icon name without the 'fa-'
  #    icon_pack = "fab"
  #  url       = "https://stackoverflow.com/users/5468471/julia-silge"
-#  [[params.social]]
- #     icon      = "linkedin" # icon name without the 'fa-'
-  #    icon_pack = "fab"
-   #   url       = "https://www.linkedin.com/in/sarikachaudhary/"
+  [[params.social]]
+      icon      = "linkedin" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/tinydatatales/"
  # [[params.social]]
  #     icon      = "orcid" # icon name without the 'fa-'
  #     icon_pack = "ai"
