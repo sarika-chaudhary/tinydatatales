@@ -15,7 +15,7 @@ intro: |
   My research interests broadly lies in understanding caste and capitalism in the contemporary India through Marxian Political Economy. I was one of the founding members of [Rethinking Economics - JNU](https://rejnu.com/). I have also been involved in the student movement at JNU and had served as the Vice-President of the JNU Students’ Union in 2018-19. You can find me and the material related to this website on [GitHub](https://github.com/sarika-chaudhary). 
 
 
-  I was born and brought up in a small in Bihar and currently living in New Delhi, India.
+  I was born and brought up in a small town in Bihar and currently living in New Delhi, India.
 
   This blog is inspired by [Julia Silge](https://juliasilge.com/) and built with [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/), and deployed using [Netlify](https://www.netlify.com/). My blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
 
