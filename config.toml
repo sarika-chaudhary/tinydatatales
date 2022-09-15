@@ -93,15 +93,15 @@ enableEmoji = true
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/tinydatatales"
+      url       = "https://twitter.com/sarika_jnu"
   [[params.social]]
       icon      = "facebook" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/tinydatatales"
+      url       = "https://www.facebook.com/sarikachaudharyy"
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.instagram.com/tinydatatales/"
+      url       = "https://www.instagram.com/sarika_jnu/"
 
 #  [[params.social]]
  #     icon      = "github" # icon name without the 'fa-'
@@ -118,7 +118,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.linkedin.com/in/tinydatatales/"
+      url       = "https://www.linkedin.com/in/sarikachaudhary/"
  # [[params.social]]
  #     icon      = "orcid" # icon name without the 'fa-'
  #     icon_pack = "ai"
