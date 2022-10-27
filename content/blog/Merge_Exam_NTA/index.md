@@ -5,10 +5,7 @@ date: '2022-10-28'
 slug: nta-net-merger
 subtitle: "Big loss for the students"
 image:
-  caption: ''
-  focal_point: ''
   preview_only: true
-projects: []
 ---
 
 The National Testing Agency (NTA) is expected to release the results of UGC-NET exam for December 2021 and June 2022 merged cycles in the first week of November 2022. The application process for the same examination began in May 2022. It is was initially announced that the examination would be held in phased in July and August. However, it was later postponed and finally exam happed in four phases. Phase 1 of the examination was held from July 9 to July 12; phase 2 from September 20 to September 23; phase 3 from September 29 to October 1; phase 4 from October 8 to October 14. Thus, it took NTA more than five months to conduct one examination. If such delay in examination be continued the merged examination would become a norm rather than exceptions. Therefore, in this article I have tried to analyse the impact of such merged examination using the data from last few examinations conducted by the NTA.
