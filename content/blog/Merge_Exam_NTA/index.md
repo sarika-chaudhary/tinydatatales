@@ -1,9 +1,11 @@
 ---
 title: "NTA-NET Exam Merger"
-author: Sarika Chaudhary
-date: '2022-10-28'
-slug: nta-net-merger
+date: 2022-10-27
+categories: 
+- git
 subtitle: "Big loss for the students"
+tags: 
+- git
 image:
   preview_only: true
 ---
